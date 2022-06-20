@@ -1,0 +1,6 @@
+﻿  SVGParser.cpp
+C:\Users\Admin\OneDrive\Desktop\SVGParser\SVGParser\helperFunctions.h(81,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\OneDrive\Desktop\SVGParser\SVGParser\helperFunctions.h(106,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\OneDrive\Desktop\SVGParser\SVGParser\helperFunctions.h(135,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\OneDrive\Desktop\SVGParser\SVGParser\helperFunctions.h(167,20): warning C4018: '<': signed/unsigned mismatch
+  SVGParser.vcxproj -> C:\Users\Admin\OneDrive\Desktop\SVGParser\x64\Debug\SVGParser.exe
